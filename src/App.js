@@ -1,9 +1,9 @@
-import { Button } from "./Components/Button";
+import StateManagement from "./Components/StateManagement"
 function App() {
   
   return (
     <div className="App">
-      <Button />
+     <StateManagement />
     </div>
   );
 }
